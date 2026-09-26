@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/game-difficulty/2048EndgameTablebase",
+  "commit": "f9d1dba9a42714e32430dfc18e7ac317a6132f0c",
+  "wasmBytes": 2857054,
+  "wasmSha256": "d3d67f08ef8f3cce64a72c3c8011e74fb6097de97aed6af38f52fea69fcf8f24",
+  "strategySha256": "418dbc9f24702ce90fb9812f6508d44e738bcbdf164170d728fd3700b35020df",
+  "builtAt": "2026-09-26T05:58:49.942Z"
+}
